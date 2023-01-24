@@ -50,7 +50,7 @@ public class WriteThreadServer extends S_main {
 			
 		for(int i=0;i< server.socketList.size();i++) {
 			
-//			if(socketList.get(i).isClosed()) {
+//			if(socketList.get(i).isClosed()) {   
 //				socketList.remove(i);
 //			}		 	
 			

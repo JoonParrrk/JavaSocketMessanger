@@ -19,7 +19,7 @@ public class test extends C_main {
 	
 	public static void main(String args[]) {
 		ArrayList<String> wtf  = new ArrayList<>();
-		System.out.println(wtf.size());
+		System.out.println(wtf.size()); 
 		wtf.add("DSFFDS");
 		System.out.println(wtf.size());
 	}

@@ -39,7 +39,7 @@ public class ReadThread extends C_main{
 //						incomingMessage = null;
 					}
 			} 
-			
+			  
 		} catch (IOException e) {
 			System.out.println("ERROR");
 

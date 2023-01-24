@@ -49,7 +49,7 @@ public class WriteThread extends C_main {
 				messageToSend = bufferedReader.readLine();
 				bufferedWriter.write(messageToSend);
 				bufferedWriter.newLine();
-				bufferedWriter.flush();
+				bufferedWriter.flush();  
 			}
 		}
 		catch(Exception e) {

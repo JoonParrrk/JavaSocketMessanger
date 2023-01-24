@@ -14,12 +14,12 @@ import java.net.UnknownHostException;
 public class C_main extends Thread {
 	
 	/*
-	 * set your nickname!
+	 * set your nickname! 
 	 */
 	protected String nickname = null;
 	private boolean initiate = true;
 	/*
-	 * server entrance
+	 * server entrance 
 	 */
 	protected Socket socket = null;
 	
