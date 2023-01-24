@@ -1,2 +1,4 @@
 # JavaSocketMessanger
-new repo
+
+Java Messanger app
+
